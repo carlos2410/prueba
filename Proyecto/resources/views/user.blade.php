@@ -37,7 +37,7 @@
                         <th width="50">No</th>
                         <th>Nombre</th>
                         <th>Correo Electornico</th>
-                        <th width="100px">Eliminar</th>
+                        <th width="100px">Acciones</th>
                         
                     </tr>
                 </thead>
